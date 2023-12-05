@@ -13,9 +13,7 @@ N/A.
 To use this website,the following image shows the web application's appearance and functionality:
 
 
-```md
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]("C:\Users\seedo\Bootcamp-Works\Horiseon-Refactor\assets\images\Web capture_5-12-2023_231028_kelllzzz.github.io.jpeg")
-```
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/screenshot.png)
 
 
 ## Credits
