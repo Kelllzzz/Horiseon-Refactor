@@ -10,7 +10,12 @@ N/A.
 
 ## Usage
 
-To use this website,you can review the notes in each section. For suggestions on what to study first, open the chrome Devtools by pressing Command+Option+I (MacOS) or Control+shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
+To use this website,the following image shows the web application's appearance and functionality:
+
+
+```md
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]("C:\Users\seedo\Bootcamp-Works\Horiseon-Refactor\assets\images\Web capture_5-12-2023_231028_kelllzzz.github.io.jpeg")
+```
 
 
 ## Credits
