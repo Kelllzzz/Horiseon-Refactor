@@ -1,13 +1,16 @@
+/* Normalize the styles of all elements in the webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Choosing a background color for the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* styling the header for the webpage */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +23,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* To give few letters of the header a different color */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* To style the nav bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +46,17 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* To style all the anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 16px; /* sets the font-size of all paragraph tags*/
 }
 
+/* Styling the hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,6 +64,32 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+
+/* Styles the main section of the webpage  */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.Social {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.Social img {
+    max-height: 200px;
+}
+
+.Social h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -69,12 +102,7 @@ p {
     margin-left: 25px;
 }
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Styles the aside section of the webpage */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,24 +130,7 @@ article img {
     max-width: 150px;
 }
 
-.Social {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.Social img {
-    max-height: 200px;
-}
-
-.Social h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Styles the footer section of the webpage */
 footer {
     padding: 30px;
     clear: both;
